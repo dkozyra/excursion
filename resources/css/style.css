@@ -1,0 +1,50 @@
+h1 {
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+/* .section-title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes-bkg-col {
+    background-color: mediumspringgreen;
+}
+
+#frames-bkg-col {
+    background-color: lightcoral;
+}
+
+#paint-bkg-col {
+    background-color: skyblue;
+}
+
+figcaption {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+figure {
+    margin-right: auto;
+    margin-left: 0;
+    display:block;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+} */
+
